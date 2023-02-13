@@ -1,5 +1,5 @@
 # The Odin Project
-## Esse projeto é o primeiro de muitos outros, que seguirão o currículo do The Odin Project.
+Esse projeto é o primeiro de muitos outros, que seguirão o currículo do The Odin Project.
 
 Descrição: Projeto simples, feito apenas em HTML, que trata de receitas caseiras.
 
